@@ -2,3 +2,7 @@ img{
     width: 150px;
     height: 200px;
 }
+table, td, tr, thead, tr th, tr td {
+    border: 1px solid black;
+    width: 90%;
+}
