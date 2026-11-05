@@ -1,0 +1,7 @@
+a {
+    background-image: url("../images/paperclip.jpg");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 1em 1em;
+    padding-left: 1.3em;
+}

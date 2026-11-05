@@ -1,0 +1,35 @@
+.donkereachtergrond{
+    background-color: #2B2D42;
+}
+.lichteachtergrond{
+    background-color: #8D99AE;
+}
+.grijzetekst{
+    color: #8D99AE;
+}
+.rodelinks  a{
+    color: #EF233C
+}
+.lettertype{
+    font-family: Helvetica;
+}
+.wittetekst{
+    color: #EDF2F4;
+}
+h1{
+    font-size: 80px;
+
+}
+h2{
+    font-size: 40px;
+}
+
+.padding{
+    padding: 30px;
+}
+.margin-onder{
+    margin-bottom: 10px;
+}
+.margin-boven{
+    margin-top: 10px;
+}

@@ -1,0 +1,17 @@
+.checklist {
+    list-style: none;
+    padding: 0;
+}
+
+.checklist > li {
+    background-image: url("../images/geen_vinkje.jpg");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 1em 1em;
+    padding-left: 1.5em;
+    margin: 5px;
+}
+
+.checklist > li.checked {
+    background-image: url("../images/vinkje.png");
+}
